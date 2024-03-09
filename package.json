@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "teavers": "^1.0.0"
+  },
+  "name": "teadummy",
+  "description": "",
+  "version": "1.0.0",
+  "main": "retrydummy.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teadummy"
+  ],
+  "author": "divers",
+  "license": "ISC"
+}
