@@ -1,13 +1,21 @@
 {
   "dependencies": {
+    "calcxtea": "^1.0.1",
     "chalk": "^5.3.0",
-    "teavers": "^1.0.0"
+    "chalkpasstea": "^1.0.0",
+    "henlo-tea": "^1.0.3",
+    "jumlah-tiga-angka": "^1.0.0",
+    "metafi-data": "^1.0.1",
+    "ossteax": "^1.0.1",
+    "stakefy": "^1.0.1",
+    "teafix": "^1.0.1",
+    "teavers": "^1.0.0",
+    "yoloxtea": "^1.0.4"
   },
   "name": "teadummy",
   "description": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "retrydummy.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +23,6 @@
     "teadummy"
   ],
   "author": "divers",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
